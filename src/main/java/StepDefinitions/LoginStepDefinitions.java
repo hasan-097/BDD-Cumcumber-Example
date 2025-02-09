@@ -35,7 +35,7 @@ public class LoginStepDefinitions {
 		txt_email.sendKeys("iamhasan097@gmail.com");
 		
 		Thread.sleep(3000);
-		txt_password.sendKeys("Hasan@1997");
+		txt_password.sendKeys("dhvd@sf3");
 		Thread.sleep(3000);
 		
 	}
