@@ -27,4 +27,4 @@ Then User should be able to see "<message>"
 Examples: 
 	|username|password|message|
 	|abc@gmail.com|ach@6d|Invalid login|
-	|iamhasan097@gmail.com|Hasan@1998|Invalid login|
+	|iamhasan097@gmail.com|Hajs@124|Invalid login|
